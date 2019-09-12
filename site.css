@@ -1,0 +1,9 @@
+body {
+font-family: monospace;
+}
+
+#index {
+list-style: none;
+padding-bottom: 1em;
+padding-left: 0;
+}
